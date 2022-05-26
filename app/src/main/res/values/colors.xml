@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#E62117</color>
+    <color name="colorPrimaryDark">#BF1C14</color>
+    <color name="colorAccent">#FF4C43</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+
+    <!--dark theme color-->
+    <color name="colorStatusBarDark">#101D24</color>
+    <color name="colorToolbarDark">#222D36</color>
+    <color name="colorAccentDark">#FF4C43</color>
+    <color name="colorBackgroundDark">#101D24</color>
+
+    <!--others-->
+    <color name="colorShimmer">#BCBEC1</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!--solid-->
+    <color name="red">#D32F2F</color>
+    <color name="pink">#D81B60</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deep_purple">#4527A0</color>
+    <color name="indigo">#303F9F</color>
+    <color name="blue">#1976D2</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#00796B</color>
+    <color name="green">#43A047</color>
+    <color name="lime">#C0CA33</color>
+    <color name="orange">#F4511E</color>
+    <color name="brown">#795548</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="grey_medium">#EDECEC</color>
+    <color name="grey_dark">#797979</color>
+    <color name="dark">#384855</color>
+    <color name="blue_gray">#546E7A</color>
+    <color name="black">#000000</color>
+    <color name="gnt_white">#FFFFFF</color>
+
+</resources>

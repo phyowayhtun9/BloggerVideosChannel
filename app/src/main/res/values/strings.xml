@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app info-->
+    <string name="app_name">2d 3d Tips</string>
+    <string name="app_copyright">Copyright &#169; 2022 Phyo Wai Tun \n All rights reserved</string>
+
+    <!--bottom navigation menu name-->
+    <string name="title_nav_home">Home</string>
+    <string name="title_nav_category">Categories</string>
+    <string name="title_nav_favorite">Favorites</string>
+
+    <!--toolbar main menu-->
+    <string name="menu_more">More</string>
+    <string name="menu_overflow_settings">Settings</string>
+    <string name="menu_overflow_rate_us">Rate us</string>
+    <string name="menu_overflow_more_apps">More apps</string>
+    <string name="menu_overflow_share">Share</string>
+    <string name="menu_overflow_about">About</string>
+
+    <!--favorite-->
+    <string name="favorite_add">Add to Favorite</string>
+    <string name="favorite_remove">Remove from Favorite</string>
+    <string name="msg_favorite_added">Added to favorite</string>
+    <string name="msg_favorite_removed">Removed from favorite</string>
+    <string name="no_favorite_found">Your favorite list is empty because you do not add any videos in the favorite menu.</string>
+
+    <!--share-->
+    <string name="share">Share</string>
+    <string name="share_text">I would like to share this app with you. Here you can download this app on Google Play</string>
+
+    <!--font size name -->
+    <string name="title_dialog_font_size">Select Font Size</string>
+    <string name="font_size_xsmall">Extra Small</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_xlarge">Extra Large</string>
+
+    <!--search-->
+    <string name="title_menu_search">Search</string>
+    <string name="search_hint">Search&#8230;</string>
+
+    <!--network & error message-->
+    <string name="whops">Whoops!</string>
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">There is a problem with your network or the server is down, try again later.</string>
+    <string name="no_category_found">There doesn\'t seem to be a category available at the moment.</string>
+    <string name="no_search_found">Search not found! if you want to continue the search, please try entering another keyword!</string>
+    <string name="msg_no_item">There doesn\'t seem to be any content available at the moment.</string>
+    <string name="msg_search_input">Please insert keyword!</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="dialog_option_ok">OK</string>
+
+    <!--video player-->
+    <string name="failed_stream">Failed to load stream, probably the stream server currently down!</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="dialog_no">NO</string>
+    <string name="dialog_retry">RETRY</string>
+
+    <!--settings and others-->
+    <string name="txt_title_settings">Settings</string>
+    <string name="title_setting_theme">Dark Mode</string>
+    <string name="sub_title_setting_theme">Better eyesight and power saving</string>
+    <string name="msg_please_wait">Please wait&#8230;</string>
+    <string name="content_description">TODO</string>
+    <string name="title_setting_notification">Push Notification</string>
+    <string name="sub_title_setting_notification">Manage push notification settings</string>
+    <string name="title_setting_clear_cache">Clear Cache</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="title_setting_privacy">Privacy Policy</string>
+    <string name="title_setting_rate">Rate us</string>
+    <string name="title_setting_more_apps">More apps</string>
+    <string name="title_setting_about">About</string>
+    <string name="msg_about_version">Version</string>
+    <string name="title_menu_browser">Open In Browser</string>
+    <string name="title_setting_display_videos">Display Videos</string>
+    <string name="title_setting_display_categories">Display Category</string>
+    <string name="msg_clearing_cache">Clearing cache</string>
+    <string name="msg_clear_cache">Are you sure want to clear cache?</string>
+    <string name="msg_cache_cleared">cache has been cleared</string>
+    <string name="option_menu_video_list_default">Default</string>
+    <string name="option_menu_category_list">List</string>
+    <string name="option_menu_category_grid_2">Grid (2 Columns)</string>
+    <string name="option_menu_category_grid_3">Grid (3 Columns)</string>
+    <string name="option_menu_video_list_compact">Compact</string>
+    <string name="option_yes">Yes</string>
+    <string name="option_cancel">Cancel</string>
+    <string name="txt_related">You may also like</string>
+    <string name="txt_uncategorized">Uncategorized</string>
+
+    <!--exit message-->
+    <string name="press_again_to_exit">Press again to exit</string>
+
+</resources>

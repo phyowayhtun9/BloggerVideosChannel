@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_font_size">
+        <item>@string/font_size_xsmall</item>
+        <item>@string/font_size_small</item>
+        <item>@string/font_size_medium</item>
+        <item>@string/font_size_large</item>
+        <item>@string/font_size_xlarge</item>
+    </string-array>
+
+    <string-array name="dialog_video_view_type">
+        <item>@string/option_menu_video_list_default</item>
+        <item>@string/option_menu_video_list_compact</item>
+    </string-array>
+
+    <string-array name="dialog_category_view_type">
+        <item>@string/option_menu_category_list</item>
+        <item>@string/option_menu_category_grid_2</item>
+        <item>@string/option_menu_category_grid_3</item>
+    </string-array>
+
+</resources>
